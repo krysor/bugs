@@ -1,2 +1,2 @@
 <h1> We're having trouble connecting to your robot via Bluetooth </h1>
-![error message](https://raw.githubusercontent.com/krysor/bugs/main/iRobotHomeApp/img/error.png)
+![error message](https://raw.githubusercontent.com/krysor/bugs/main/iRobotHomeApp/img/error.png?raw=true)
