@@ -4,11 +4,11 @@ Recently I've tried to connect an iRobot Roomba i7 with the iRobot® HOME App. E
 
 ![error message](./img/connecting.png)
 
-only to get to see this error message after about 2-3 minutes:
+only to see this error message after about 2-3 minutes:
 
 ![error message](./img/error.png)
 
-This error kept happening despite:
+This error persisted despite:
 
 - following the official [iRobot guide]
 - having [Optimal firewall configurations]
@@ -29,7 +29,7 @@ I've seen at least one another person on Reddit having the exact same problem, h
 
 My theory is that the Samsung foundry SoC's BT modules possibly have some problems when connecting to the iRobot devices.
 
-It's worth to mention that my first ever pairing using a Google Pixel 6a on GrapeheneOS (Android 13) was successfull.
+Maybe it's worth to mention that my first ever pairing using a Google Pixel 6a on GrapeheneOS (Android 13) was successfull.
 
 [iRobot guide]: <https://homesupport.irobot.com/s/article/17734>
 [Optimal firewall configurations]: <https://homesupport.irobot.com/s/article/9025>
