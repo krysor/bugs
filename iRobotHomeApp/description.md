@@ -1,2 +1,2 @@
-<h1> We're having trouble connecting to your robot via Bluetooth </h1>
+# We're having trouble connecting to your robot via Bluetooth
 ![error message](./img/error.png)
