@@ -14,7 +14,7 @@ This error kept happening despite:
 - having [Optimal firewall configurations]
 - not having any [router compability issues]
 - trying everything from the official [Connection Issues Troubleshooting Guide]
-- tring to switch off the router and use another phone as hotspot
+- trying another phone as Wi-Fi hotspot
 - and following the on screen instructions from the app to a T
 
 ## Solution
