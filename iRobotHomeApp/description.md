@@ -1,1 +1,2 @@
-<h1>Hi there, my name is Nikola 👋</h1>
+<h1> We're having trouble connecting to your robot via Bluetooth </h1>
+<img> img/error.png </img>
